@@ -1,0 +1,2 @@
+# Intrusion-Detection-Model-Using-Machine-Learning-Algorithm-On-Big-Data-Environment-
+🛡️ Real-time Intrusion Detection Model (IDM) using a Spark Chi-SVM classifier on Apache Spark. Processes massive network logs, optimizes features via Chi-Square selection, and outperforms Chi-Logistic Regression in speed and accuracy. Benchmarked on 494k+ KDD99 dataset records for high-scale cybersecurity monitoring.
